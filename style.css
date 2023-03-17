@@ -1,0 +1,17 @@
+h1 {
+    font-size: 30;
+    color: blue;
+}
+label{
+    font-size: 22;
+    color: red;
+}
+input{
+    width: 300px;
+}
+button{
+    color:yellow;
+    background-color: pink;
+    width: 50px;
+    height: 30px;
+}
